@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 13, 2021, 3:28:02 AM
+    Author     : DELL
+*/
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+html,
+
+
+body {
+   
+    display: grid;
+    place-items: center;
+    width: 100%;
+    height: 100vh;
+     background: linear-gradient(to right, #c04848, #480048);
+    text-align: center;
+    font-size: 16px
+}
+
+.modal-content {
+    border-radius: 1rem
+}
+
+.modal-content:hover {
+    box-shadow: 2px 2px 2px black
+}
+
+.fa {
+    color: #2b84be;
+    font-size: 90px;
+    padding: 30px 0px
+}
+
+.b1 {
+    background-color: #2b84be;
+    box-shadow: 0px 4px #337095;
+    font-size: 17px
+}
+
+.r3 {
+    color: #c1c1c1;
+    font-weight: 500
+}
+
+a,
+a:hover {
+    text-decoration: none
+}
+
